@@ -38,9 +38,12 @@ Web official : https://komga.org/
 
 ---
 [Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi)
+:---:|:-----:
+
 
 # Deskripsi Aplikasi
-[`^ Kembali Ke Atas ^`](#)
+[`^ Kembali Ke Atas ^`](#) 
+
 Komga merupakan aplikasi server untuk komik dan manga, komga juga gratis dan open source.
 
 Komga memiliki fitur antara lain :
