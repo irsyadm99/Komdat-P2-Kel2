@@ -1,9 +1,7 @@
-# Komdat-P2-Kel2
+# Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 # ![](webapp/public/favicon-32x32.png)KOMGA
 Original repository : https://github.com/gotson/komga
 Web official : https://komga.org/
-
-# Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 
 # Anggota
 <table>
