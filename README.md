@@ -4,7 +4,7 @@
   //<a href="#">Link 2</a> |
   //<a href="#">Link 3</a>
   //<br><br> -->
-  <img src="https://user-images.githubusercontent.com/62282651/111072088-a425b080-850b-11eb-9393-ec330fba5ad6.png">
+  <img src="https://user-images.githubusercontent.com/62282651/111072088-a425b080-850b-11eb-9393-ec330fba5ad6.png" width="400px" height="400px">
 </p>
 
 <h3 align="center"> KOMGA </h3>
