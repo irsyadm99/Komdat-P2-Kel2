@@ -67,6 +67,7 @@ Ada dua metode untuk instalasi Komga :
 
 Dalam hal ini kami menggunakan java
 # Proses instalasi 
+## 1. Java
 Karena kami akan menggunakan java maka pastikan sudah memasang JRE/JDK pada mesin.
 Pilihan termudah untuk menginstal Java adalah dengan menggunakan versi yang dikemas beserta Ubuntu. Secara asali, Ubuntu 20.04 meliputi Open JDK 11, yang merupakan varian sumber terbuka dari JRE dan JDK.
 
@@ -82,3 +83,10 @@ atau bisa juga dengan perintah berikut:
 ````
 $ sudo apt install default-jdk
 ````
+## 2. Apache,MySQL,PHP(LAMP),Stack
+Aplikasi akan dijalankan pada lokal dari mesin kita, untuk dapat menggunakan localhost maka diperlukan setup terhadap hal-hal tersebut.
+
+Karena cukup detail maka silahkan kunjungi link berikut dan ikuti petunjuk yang ada pada artikel tersebut: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+
+Jika sudah selesai, coba masuk ke localhost melalui web browser. Maka tampilan nya akan seperti berikut:
+
