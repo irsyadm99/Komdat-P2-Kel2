@@ -1,6 +1,6 @@
 # Komdat-P2-Kel2
 # ![](webapp/public/favicon-32x32.png) KOMGA
-<br>
+
 # Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 
 # Anggota
