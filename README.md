@@ -96,3 +96,16 @@ Kita akan menjalankan komga menggunakan jar file, versi terbaru dari komga jar f
 
 pada laporan ini kami menggunakan komga v0.80.0, sebelum itu silahkan cek terlebih dahulu versi dari java yang ada pada mesin karena komga hanya dapat dijalankan pada
 java version 8+ . Silahkan cek versi java dengan perintah ```` $ java --version ````
+
+Lalu berikutnya jalankan perintah berikut untuk menjalankan Komga:
+````
+$ java -jar komga-0.80.0.jar
+````
+Setelah komga berhasil dijalankan, kita bisa mengakses web nya melalui : ```` http://<your-server>:<port>(/baseUrl) ````
+karena pada laporan ini komga dijalakan pada lokal maka `` <your-server> `` adalah `` localhost `` dan default `` <port> `` adalah 8080.
+
+Berikut adalah tampilan awal ketika mengakses localhost:8080  :
+![](src/login.png)
+Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada halaman home. 
+![](src/home2.png)
+halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
