@@ -49,3 +49,14 @@ Komga memiliki fitur antara lain :
 - Download book files
 - Manage multiple users, with per-library accesss control
 - Webreader
+
+Berikut adalah tipe file yang dapat dibaca oleh komga :
+- Comic book archives: CBZ and CBR (except RAR5 and solid archives)
+- Comic books in EPUB format
+- PDF files
+
+Komga juga dapat dijalankan pada semua sistem yang dapat menjalankan docker ataupun java :
+- Windows
+- macOS
+- Linux
+- Many popular NAS devices such as QNAP, Synology and more
