@@ -108,4 +108,4 @@ Berikut adalah tampilan awal ketika mengakses localhost:8080  :
 ![](src/login.png)
 Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada halaman home. 
 ![](src/home2.png)
-halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
+halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini. Sekian laporan yang dapat kami sampaikan, terimakasih...
