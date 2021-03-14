@@ -1,7 +1,9 @@
-# Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
+# Komdat-P2-Kel2
 # ![](webapp/public/favicon-32x32.png)KOMGA
 Original repository : https://github.com/gotson/komga
 Web official : https://komga.org/
+
+# Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 
 # Anggota
 <table>
@@ -37,8 +39,11 @@ Web official : https://komga.org/
 </table>
 
 ---
+[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Instalasi](#instalasi) 
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Deskripsi Aplikasi
+[`^ Kembali Keatas ^`](#)
 Komga merupakan aplikasi server untuk komik dan manga, komga juga gratis dan open source.
 
 Komga memiliki fitur antara lain :
@@ -58,5 +63,3 @@ Komga juga dapat dijalankan pada semua sistem yang dapat menjalankan docker atau
 - macOS
 - Linux
 - Many popular NAS devices such as QNAP, Synology and more
----
-Kami menginstall aplikasi pada VM lokal yaitu Ubuntu 20.04.2.0 LTS
