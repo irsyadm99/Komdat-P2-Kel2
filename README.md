@@ -1,5 +1,6 @@
+<h1 align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkomga.org%2F&psig=AOvVaw31YSQ68sIUoyMuodDbYrRR&ust=1615817722474000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjix-37r-8CFQAAAAAdAAAAABAD"></h1>
+
 # Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
-# ![](webapp/public/favicon-32x32.png)KOMGA
 Original repository : https://github.com/gotson/komga
 Web official : https://komga.org/
 
