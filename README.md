@@ -59,4 +59,10 @@ Komga juga dapat dijalankan pada semua sistem yang dapat menjalankan docker atau
 - Linux
 - Many popular NAS devices such as QNAP, Synology and more
 ---
-Kami menginstall aplikasi pada VM lokal yaitu Ubuntu 20.04.2.0 LTS
+Kami menginstall aplikasi pada VM lokal sistem operasi yang digunakan adalah Ubuntu 20.04.2.0 LTS
+
+Ada dua metode untuk instalasi Komga :
+- Menggunakan Docker
+- Menggunakan java dengan jar file
+
+Dalam hal ini kami menggunakan java
