@@ -37,8 +37,10 @@ Web official : https://komga.org/
 </table>
 
 ---
+[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi)
 
 # Deskripsi Aplikasi
+[`^ Kembali Ke Atas ^`](#)
 Komga merupakan aplikasi server untuk komik dan manga, komga juga gratis dan open source.
 
 Komga memiliki fitur antara lain :
@@ -66,6 +68,7 @@ Ada dua metode untuk instalasi Komga :
 - Menggunakan java dengan jar file
 
 Dalam hal ini kami menggunakan java
+
 # Proses instalasi 
 ## 1. Java
 Karena kami akan menggunakan java maka pastikan sudah memasang JRE/JDK pada mesin.
