@@ -7,7 +7,8 @@
   <img src="https://user-images.githubusercontent.com/62282651/111072088-a425b080-850b-11eb-9393-ec330fba5ad6.png">
 </p>
 
-# Komga
+<h3 align="center"> KOMGA </h3>
+
 
 # Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 Original repository : https://github.com/gotson/komga
