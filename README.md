@@ -74,3 +74,11 @@ Untuk menginstal versi ini, perbarui indeks paket terlebih dahulu:
 ````
 $ sudo apt update
 ````
+Jalankan perintah berikut untuk menginstal Java Runtime Environment (JRE) asali yang akan menginstal JRE dari OpenJDK terbaru:
+````
+$ sudo apt install default-jre
+````
+atau bisa juga dengan perintah berikut:
+````
+$ sudo apt install default-jdk
+````
