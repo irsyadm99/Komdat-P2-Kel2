@@ -31,7 +31,7 @@
         <tr>
             <td>3</td>
             <td>M Ihsan Fadillah WP</td>
-            <td>G6418071</td>
+            <td>G64180071</td>
         </tr>
 </tbody>
 </table>
