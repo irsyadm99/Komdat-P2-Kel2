@@ -1,4 +1,13 @@
-<h1 align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkomga.org%2F&psig=AOvVaw31YSQ68sIUoyMuodDbYrRR&ust=1615817722474000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjix-37r-8CFQAAAAAdAAAAABAD"></h1>
+<p align="center">
+  <!--<b>Some Links:</b><br>
+  //<a href="#">Link 1</a> |
+  //<a href="#">Link 2</a> |
+  //<a href="#">Link 3</a>
+  //<br><br> -->
+  <img src="https://user-images.githubusercontent.com/62282651/111072088-a425b080-850b-11eb-9393-ec330fba5ad6.png">
+</p>
+
+# Komga
 
 # Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 Original repository : https://github.com/gotson/komga
