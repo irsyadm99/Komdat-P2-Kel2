@@ -66,3 +66,11 @@ Ada dua metode untuk instalasi Komga :
 - Menggunakan java dengan jar file
 
 Dalam hal ini kami menggunakan java
+# Proses instalasi 
+Karena kami akan menggunakan java maka pastikan sudah memasang JRE/JDK pada mesin.
+Pilihan termudah untuk menginstal Java adalah dengan menggunakan versi yang dikemas beserta Ubuntu. Secara asali, Ubuntu 20.04 meliputi Open JDK 11, yang merupakan varian sumber terbuka dari JRE dan JDK.
+
+Untuk menginstal versi ini, perbarui indeks paket terlebih dahulu:
+````
+$ sudo apt update
+````
