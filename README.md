@@ -1,5 +1,7 @@
 # Komdat-P2-Kel2
-# ![](webapp/public/favicon-32x32.png) KOMGA
+# ![](webapp/public/favicon-32x32.png)KOMGA
+Original repository : https://github.com/gotson/komga
+Web official : https://komga.org/
 
 # Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 
@@ -39,3 +41,11 @@
 ---
 
 # Deskripsi Aplikasi
+Komga merupakan aplikasi server untuk komik dan manga, komga juga gratis dan open source.
+
+Komga memiliki fitur antara lain :
+- Browse libraries, series and books
+- Search bar
+- Download book files
+- Manage multiple users, with per-library accesss control
+- Webreader
