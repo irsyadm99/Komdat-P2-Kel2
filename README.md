@@ -90,3 +90,9 @@ Karena cukup detail maka silahkan kunjungi link berikut dan ikuti petunjuk yang 
 
 Jika sudah selesai, coba masuk ke localhost melalui web browser. Maka tampilan nya akan seperti berikut:
 ![](src/localhost.png)
+
+## 3. Komga
+Kita akan menjalankan komga menggunakan jar file, versi terbaru dari komga jar file dapat didownload melalui laman ini : https://github.com/gotson/komga/releases
+
+pada laporan ini kami menggunakan komga v0.80.0, sebelum itu silahkan cek terlebih dahulu versi dari java yang ada pada mesin karena komga hanya dapat dijalankan pada
+java version 8+ . Silahkan cek versi java dengan perintah ```` $ java --version ````
