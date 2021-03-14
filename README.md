@@ -38,11 +38,11 @@ Web official : https://komga.org/
 
 ---
 [Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi)
-:---:|:-----:
+:-:|:-:
 
 
 # Deskripsi Aplikasi
-[`^ Kembali Ke Atas ^`](#) 
+[`^Kembali Ke Atas^`](#) 
 
 Komga merupakan aplikasi server untuk komik dan manga, komga juga gratis dan open source.
 
@@ -72,7 +72,9 @@ Ada dua metode untuk instalasi Komga :
 
 Dalam hal ini kami menggunakan java
 
-# Proses instalasi 
+# Proses instalasi
+[`^^Kembali Ke Atas^^`]
+
 ## 1. Java
 Karena kami akan menggunakan java maka pastikan sudah memasang JRE/JDK pada mesin.
 Pilihan termudah untuk menginstal Java adalah dengan menggunakan versi yang dikemas beserta Ubuntu. Secara asali, Ubuntu 20.04 meliputi Open JDK 11, yang merupakan varian sumber terbuka dari JRE dan JDK.
