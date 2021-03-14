@@ -12,6 +12,7 @@
 
 # Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
 Original repository : https://github.com/gotson/komga
+
 Web official : https://komga.org/
 
 # Anggota
