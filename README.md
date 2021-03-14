@@ -89,4 +89,4 @@ Aplikasi akan dijalankan pada lokal dari mesin kita, untuk dapat menggunakan loc
 Karena cukup detail maka silahkan kunjungi link berikut dan ikuti petunjuk yang ada pada artikel tersebut: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
 
 Jika sudah selesai, coba masuk ke localhost melalui web browser. Maka tampilan nya akan seperti berikut:
-
+![](src/localhost.png)
