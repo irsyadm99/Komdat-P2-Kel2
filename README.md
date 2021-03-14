@@ -73,7 +73,7 @@ Ada dua metode untuk instalasi Komga :
 Dalam hal ini kami menggunakan java
 
 # Proses instalasi
-[`^^Kembali Ke Atas^^`](#deskripsiaplikasi)
+[`^^Kembali Ke Atas^^`](#deskripsi-aplikasi)
 
 ## 1. Java
 Karena kami akan menggunakan java maka pastikan sudah memasang JRE/JDK pada mesin.
