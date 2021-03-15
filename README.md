@@ -10,7 +10,7 @@
 <h3 align="center"> KOMGA </h3>
 
 
-<h1 align="center">Laporan Proyek Akhir <br> Komunikasi Data dan Jaringan (KOM312) </h1>
+<h1 align="center">Laporan Proyek Akhir <br> Komunikasi Data dan Jaringan Komputer (KOM312) </h1>
 
 Original repository : https://github.com/gotson/komga
 
@@ -50,8 +50,8 @@ Web official : https://komga.org/
 </table>
 
 ---
-[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi) | [Referensi](#referensi) | [Port Forward](#port-forward-ke-windows)
-:-:|:-:|:-:|:-:
+[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi) | [Port Forward](#port-forward-ke-windows) | [Kesimpulan](#kesimpulan) | [Referensi](#referensi) 
+:-:|:-:|:-:|:-:|:-:
 
 
 # Deskripsi Aplikasi
@@ -104,7 +104,7 @@ atau bisa juga dengan perintah berikut:
 ````
 $ sudo apt install default-jdk
 ````
-## 2. Apache, MySQL, PHP(LAMP), dan Stack
+## 2. Apache, MySQL, PHP (LAMP), dan Stack
 Aplikasi akan dijalankan pada lokal dari mesin kita, untuk dapat menggunakan localhost maka diperlukan setup terhadap hal-hal tersebut.
 
 Karena cukup detail maka silahkan kunjungi link berikut dan ikuti petunjuk yang ada pada artikel tersebut: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
@@ -129,12 +129,12 @@ karena pada laporan ini **Komga** dijalakan pada lokal maka `` <your-server> `` 
 Berikut adalah tampilan awal ketika mengakses localhost:8080  :
 <br>
 ![](src/login.png)
-<br>
+<br><br>
 Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada halaman home. 
 <br>
 ![](src/home2.png)
 <br>
-halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa **Komga** hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
+Halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa **Komga** hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
 
 # Port Forward ke Windows
 [`^^^ Kembali Ke Atas ^^^`](#)
@@ -167,6 +167,13 @@ Sekarang **Komga** sudah siap dijalankan dengan aturan App dan berjalan pada por
 <br>
 ![](src/win-home.PNG)
 <br>
+
+# Kesimpulan
+Pada kesempatan kali ini, kita sudah mencoba melakukan pemasangan aplikasi berbasis web pada server Ubuntu. Kami menggunakan server Ubuntu 20.04.2.0 LTS. Aplikasi web yang kami pilih adalah **Komga**, sebuah media server untuk menyimpan komik, manga, hingga majalah. **Komga** memiliki salah satu fitur berupa browse libraries, series and books. Dengan mendukung proses pembacaan file dengan format CBZ dan CBR (except RAR5 and solid archives) salah satunya. 
+
+[Proses Instalasi](#proses-instalasi) dibagi menjadi tiga bagian meliputi Java; Apache, MySql, PHP (LAMP), dan Stack; serta terakhir aplikasi **Komga** itu sendiri. Kemudian untuk menambah kemudahan bagi pengguna, dilakukan [Port Forward ke Windows](#port-forward-ke-windows) agar aplikas dapat diakses atau digunakan pada sistem operasi berbasis windows. Cukup sekian penyampaian projek mata kuliah Komunikasi Data dan Jaringan Komputer kelompok kami. Terima kasih ~
+
+
 
 # Referensi
 [`^^^^ Kembali Ke Atas ^^^^`](#)
