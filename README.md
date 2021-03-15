@@ -51,7 +51,7 @@ Web official : https://komga.org/
 
 ---
 [Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi) | [Referensi](#referensi) | [Port Forward](#port-forward-ke-windows)
-:-:|:-:|:-:
+:-:|:-:|:-:|:-:
 
 
 # Deskripsi Aplikasi
