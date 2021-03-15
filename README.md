@@ -155,9 +155,12 @@ Name   | Protocol   | Host IP    | Host Port  | Guest IP   | Guest Port
 http   | TCP        |127.0.0.1   | 8000       |10.0.2.15   | 80
 ssh    | TCP        |127.0.0.1   | 2200       |10.0.2.15   | 22
 App    | TCP        |127.0.0.1   | 8080       |10.0.2.15   | 8080
+
+Komga dijalankan dengan aturan App dan berjalan pada port 8080 di host dan juga port 8080 di guest.
 # Referensi
 [`^^^ Kembali Ke Atas ^^^`](#)
 
 1. [How to Install Linux, Apache, MySql, PHP (LAMP), and Stack](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) - Digtal Ocean
 2. [Komga Source Code](https://github.com/gotson/komga) - Github
-3. [Official Website](https://komga.org/) - Komga 
+3. [Official Website](https://komga.org/) - Komga
+4. [Install ssh on Ubuntu](https://www.cyberciti.biz/faq/ubuntu-linux-install-openssh-server/) 
