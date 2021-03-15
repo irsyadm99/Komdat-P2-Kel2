@@ -129,8 +129,31 @@ Berikut adalah tampilan awal ketika mengakses localhost:8080  :
 ![](src/login.png)
 Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada halaman home. 
 ![](src/home2.png)
-halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini. Sekian laporan yang dapat kami sampaikan, terimakasih...
+halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
 
+# Port Forward ke windows
+Sekarang akan dilakukan port forward sehingga komga dapat dijalankan diluar VM, dalam hal ini yaitu dijalankan pada windows.
+
+Sebelum itu pastikan telah menginstall open ssh pada windows dan VM, vm yang kami gunakan adalah ubuntu. Open ssh pada windows biasanya sudah otomatis terinstall, sedangkan pada vm ubuntu perlu instalasi terlebih dahulu. Lakukan command ini bertahap:
+````
+$ sudo apt-get install openssh-server
+$ sudo systemctl enable ssh
+$ sudo systemctl start ssh
+
+````
+Setelah selesai instalasi ssh pada vm dan juga menjalankannya. Selanjutnya silahkan pergi ke CMD windows dan login ke ssh
+````
+$ ssh user@server-name
+````
+User dapat di cek pada terminal vm dengan command `` hostname -I `` dan ``server-name`` default nya adalah ``localhost``
+
+Setelah itu lakukan setting pada virtual box manajer, masuk ke 'Settings -> Network -> Advance -> Port Forwarding', berikut juga beberapa aturan yang kami tambahkan :
+: Aturan *port forwarding*
+Name   | Protocol   | Host IP    | Host Port  | Guest IP   | Guest Port
+----   | --------   | -------    | ---------  | --------   | ----------
+http   | TCP        |127.0.0.1   | 8000       |10.0.2.15   | 80
+ssh    | TCP        |127.0.0.1   | 2200       |10.0.2.15   | 22
+App    | TCP        |127.0.0.1   | 8080       |10.0.2.15   | 8080
 # Referensi
 [`^^^ Kembali Ke Atas ^^^`](#)
 
