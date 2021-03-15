@@ -137,7 +137,7 @@ Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada h
 halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa **Komga** hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
 
 # Port Forward ke Windows
-[`^^^ Kembali Ke Atas ^^^`]
+[`^^^ Kembali Ke Atas ^^^`](#)
 
 Sekarang akan dilakukan port forward sehingga **Komga** dapat dijalankan diluar VM, dalam hal ini yaitu dijalankan pada Windows.
 
