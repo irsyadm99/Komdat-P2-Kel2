@@ -49,8 +49,8 @@ Web official : https://komga.org/
 </table>
 
 ---
-[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi)
-:-:|:-:
+[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi) | [Referensi](#referensi)
+:-:|:-:|:-:
 
 
 # Deskripsi Aplikasi
