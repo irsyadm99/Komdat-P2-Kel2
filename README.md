@@ -50,7 +50,7 @@ Web official : https://komga.org/
 </table>
 
 ---
-[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi) | [Referensi](#referensi)
+[Deskripsi Aplikasi](#deskripsi-aplikasi) | [Proses Instalasi](#proses-instalasi) | [Referensi](#referensi) | [Port Forward](#port-forward-ke-windows)
 :-:|:-:|:-:
 
 
