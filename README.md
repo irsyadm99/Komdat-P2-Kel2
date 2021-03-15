@@ -173,8 +173,6 @@ Pada kesempatan kali ini, kita sudah mencoba melakukan pemasangan aplikasi berba
 
 [Proses Instalasi](#proses-instalasi) dibagi menjadi tiga bagian meliputi Java; Apache, MySql, PHP (LAMP), dan Stack; serta terakhir aplikasi **Komga** itu sendiri. Kemudian untuk menambah kemudahan bagi pengguna, dilakukan [Port Forward ke Windows](#port-forward-ke-windows) agar aplikas dapat diakses atau digunakan pada sistem operasi berbasis windows. Cukup sekian penyampaian projek mata kuliah Komunikasi Data dan Jaringan Komputer kelompok kami. Terima kasih ~
 
-
-
 # Referensi
 [`^^^^ Kembali Ke Atas ^^^^`](#)
 
