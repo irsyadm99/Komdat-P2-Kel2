@@ -37,13 +37,13 @@ Web official : https://komga.org/
         </tr>
         <tr>
             <td>3</td>
-            <td>M Fathan Fatazka</td>
-            <td>G64180118</td>
+            <td>M Ihsan Fadillah WP</td>
+            <td>G64180071</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>M Ihsan Fadillah WP</td>
-            <td>G64180071</td>
+            <td>M Fathan Fatazka</td>
+            <td>G64180118</td>
         </tr>
 </tbody>
 </table>
