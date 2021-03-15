@@ -110,6 +110,7 @@ Aplikasi akan dijalankan pada lokal dari mesin kita, untuk dapat menggunakan loc
 Karena cukup detail maka silahkan kunjungi link berikut dan ikuti petunjuk yang ada pada artikel tersebut: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
 
 Jika sudah selesai, coba masuk ke localhost melalui web browser. Maka tampilan nya akan seperti berikut:
+<br>
 ![](src/localhost.png)
 
 ## 3. Komga
@@ -126,9 +127,13 @@ Setelah komga berhasil dijalankan, kita bisa mengakses web nya melalui : ```` ht
 karena pada laporan ini komga dijalakan pada lokal maka `` <your-server> `` adalah `` localhost `` dan default `` <port> `` adalah 8080.
 
 Berikut adalah tampilan awal ketika mengakses localhost:8080  :
+<br>
 ![](src/login.png)
+<br>
 Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada halaman home. 
+<br>
 ![](src/home2.png)
+<br>
 halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini.
 
 # Port Forward ke windows
@@ -157,7 +162,9 @@ ssh    | TCP        |127.0.0.1   | 2200       |10.0.2.15   | 22
 App    | TCP        |127.0.0.1   | 8080       |10.0.2.15   | 8080
 
 Sekarang Komga sudah siap dijalankan dengan aturan App dan berjalan pada port 8080 di host dan juga port 8080 di guest.
+<br>
 ![](src/win-home.PNG)
+<br>
 # Referensi
 [`^^^ Kembali Ke Atas ^^^`](#)
 
