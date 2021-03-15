@@ -157,7 +157,7 @@ ssh    | TCP        |127.0.0.1   | 2200       |10.0.2.15   | 22
 App    | TCP        |127.0.0.1   | 8080       |10.0.2.15   | 8080
 
 Sekarang Komga sudah siap dijalankan dengan aturan App dan berjalan pada port 8080 di host dan juga port 8080 di guest.
-![](src/win-home.png)
+![](src/win-home.PNG)
 # Referensi
 [`^^^ Kembali Ke Atas ^^^`](#)
 
