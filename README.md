@@ -10,7 +10,8 @@
 <h3 align="center"> KOMGA </h3>
 
 
-# Laporan Proyek Akhir KOM312 Komunikasi Data dan Jaringan
+<h1 align="center">Laporan Proyek Akhir <br> Komunikasi Data dan Jaringan (KOM312) </h1>
+
 Original repository : https://github.com/gotson/komga
 
 Web official : https://komga.org/
@@ -54,7 +55,7 @@ Web official : https://komga.org/
 
 
 # Deskripsi Aplikasi
-[`^Kembali Ke Atas^`](#) 
+[`^ Kembali Ke Atas ^`](#) 
 
 Komga merupakan aplikasi server untuk komik dan manga, komga juga gratis dan open source.
 
@@ -85,7 +86,7 @@ Ada dua metode untuk instalasi Komga :
 Dalam hal ini kami menggunakan java
 
 # Proses instalasi
-[`^^Kembali Ke Atas^^`](#)
+[`^^ Kembali Ke Atas ^^`](#)
 
 ## 1. Java
 Karena kami akan menggunakan java maka pastikan sudah memasang JRE/JDK pada mesin.
@@ -103,7 +104,7 @@ atau bisa juga dengan perintah berikut:
 ````
 $ sudo apt install default-jdk
 ````
-## 2. Apache,MySQL,PHP(LAMP),Stack
+## 2. Apache, MySQL, PHP(LAMP), dan Stack
 Aplikasi akan dijalankan pada lokal dari mesin kita, untuk dapat menggunakan localhost maka diperlukan setup terhadap hal-hal tersebut.
 
 Karena cukup detail maka silahkan kunjungi link berikut dan ikuti petunjuk yang ada pada artikel tersebut: https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
@@ -131,8 +132,8 @@ Silahkan melakukan pendaftaran akun dan login, Setelah itu akan diarahkan pada h
 halaman home tersebut telah kami isi dengan komik/manga dan EPUB yang sebelumnya telah disiapkan. Perlu perhatikan bahwa komga hanya dapat membaca tipe file tertentu, bisa di cek pada halaman awal laporan ini. Sekian laporan yang dapat kami sampaikan, terimakasih...
 
 # Referensi
-[`^^^Kembali Ke Atas^^^`](#)
+[`^^^ Kembali Ke Atas ^^^`](#)
 
-1. [How to Install](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) - Digtal Ocean
-2. [Source Code](https://github.com/gotson/komga) - Github
+1. [How to Install Linux, Apache, MySql, PHP (LAMP), and Stack](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) - Digtal Ocean
+2. [Komga Source Code](https://github.com/gotson/komga) - Github
 3. [Official Website](https://komga.org/) - Komga 
