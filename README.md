@@ -121,7 +121,7 @@ Java version 8+ . Silahkan cek versi Java dengan perintah ```` $ java --version 
 
 Lalu berikutnya jalankan perintah berikut untuk menjalankan **Komga**:
 ````
-$ java -jar komga-0.80.0.jar
+$ java -jar komga-0.80.0.jar 
 ````
 Setelah **Komga** berhasil dijalankan, kita bisa mengakses web nya melalui : ```` http://<your-server>:<port>(/baseUrl) ````
 karena pada laporan ini **Komga** dijalankan pada lokal maka `` <your-server> `` adalah `` localhost `` dan default `` <port> `` adalah 8080.
@@ -150,9 +150,9 @@ $ sudo systemctl start ssh
 ````
 Setelah selesai instalasi ssh pada VM dan juga menjalankannya. Selanjutnya silahkan pergi ke CMD windows dan login ke ssh:
 ````
-$ ssh user@server-name
+$ ssh user@server-name -p [port untuk ssh]
 ````
-User dapat di cek pada terminal VM dengan command `` whoami `` dan ``server-name`` default nya adalah ``localhost``
+User dapat di cek pada terminal VM dengan command `` whoami `` dan ``server-name`` default nya adalah ``localhost``, kami menggunakan port 2200 untuk ssh
 
 Setelah itu lakukan setting pada virtual box manajer, masuk ke 'Settings -> Network -> Advance -> Port Forwarding', berikut juga beberapa aturan yang kami tambahkan :
 
