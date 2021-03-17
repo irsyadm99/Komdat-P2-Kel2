@@ -152,7 +152,7 @@ Setelah selesai instalasi ssh pada VM dan juga menjalankannya. Selanjutnya silah
 ````
 $ ssh user@server-name
 ````
-User dapat di cek pada terminal VM dengan command `` hostname -I `` dan ``server-name`` default nya adalah ``localhost``
+User dapat di cek pada terminal VM dengan command `` whoami `` dan ``server-name`` default nya adalah ``localhost``
 
 Setelah itu lakukan setting pada virtual box manajer, masuk ke 'Settings -> Network -> Advance -> Port Forwarding', berikut juga beberapa aturan yang kami tambahkan :
 
