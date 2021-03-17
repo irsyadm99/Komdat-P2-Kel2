@@ -154,7 +154,7 @@ $ ssh user@server-name -p [port untuk ssh]
 ````
 User dapat di cek pada terminal VM dengan command `` whoami `` dan ``server-name`` default nya adalah ``localhost``, kami menggunakan port 2200 untuk ssh
 
-Setelah itu lakukan setting pada virtual box manajer, masuk ke 'Settings -> Network -> Advance -> Port Forwarding', berikut juga beberapa aturan yang kami tambahkan :
+jangan lupa untuk melakukan setting pada virtual box manajer, masuk ke 'Settings -> Network -> Advance -> Port Forwarding', berikut juga beberapa aturan yang kami tambahkan :
 
 Aturan *port forwarding*
 Name   | Protocol   | Host IP    | Host Port  | Guest IP   | Guest Port
